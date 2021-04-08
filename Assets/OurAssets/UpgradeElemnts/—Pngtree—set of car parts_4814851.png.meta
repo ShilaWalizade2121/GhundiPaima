@@ -1,0 +1,880 @@
+fileFormatVersion: 2
+guid: 0bbed23120c0c1e45bfd81763af856e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6969131081817227434
+    second: "\u2014Pngtree\u2014set of car parts_4814851_0"
+  - first:
+      213: -4300880256038888644
+    second: "\u2014Pngtree\u2014set of car parts_4814851_1"
+  - first:
+      213: 2064041553020246191
+    second: "\u2014Pngtree\u2014set of car parts_4814851_2"
+  - first:
+      213: 2393892566070529373
+    second: "\u2014Pngtree\u2014set of car parts_4814851_3"
+  - first:
+      213: 507874915064342132
+    second: "\u2014Pngtree\u2014set of car parts_4814851_4"
+  - first:
+      213: -2177138018180288388
+    second: "\u2014Pngtree\u2014set of car parts_4814851_5"
+  - first:
+      213: -5811187399327319891
+    second: "\u2014Pngtree\u2014set of car parts_4814851_6"
+  - first:
+      213: 8324826903839131850
+    second: "\u2014Pngtree\u2014set of car parts_4814851_7"
+  - first:
+      213: 448591252624597626
+    second: "\u2014Pngtree\u2014set of car parts_4814851_8"
+  - first:
+      213: 8420736814518855799
+    second: "\u2014Pngtree\u2014set of car parts_4814851_9"
+  - first:
+      213: -4906802687663118276
+    second: "\u2014Pngtree\u2014set of car parts_4814851_10"
+  - first:
+      213: -7297585560380071361
+    second: "\u2014Pngtree\u2014set of car parts_4814851_11"
+  - first:
+      213: 4451122462915463337
+    second: "\u2014Pngtree\u2014set of car parts_4814851_12"
+  - first:
+      213: 906413727475527636
+    second: "\u2014Pngtree\u2014set of car parts_4814851_13"
+  - first:
+      213: 8722663717692155428
+    second: "\u2014Pngtree\u2014set of car parts_4814851_14"
+  - first:
+      213: 1011819218799796472
+    second: "\u2014Pngtree\u2014set of car parts_4814851_15"
+  - first:
+      213: -154428038734872474
+    second: "\u2014Pngtree\u2014set of car parts_4814851_16"
+  - first:
+      213: -8672124700158826047
+    second: "\u2014Pngtree\u2014set of car parts_4814851_17"
+  - first:
+      213: 35141884279081454
+    second: "\u2014Pngtree\u2014set of car parts_4814851_18"
+  - first:
+      213: 3304783113687633214
+    second: "\u2014Pngtree\u2014set of car parts_4814851_19"
+  - first:
+      213: -7946522742563415008
+    second: "\u2014Pngtree\u2014set of car parts_4814851_20"
+  - first:
+      213: -10200916789776915
+    second: "\u2014Pngtree\u2014set of car parts_4814851_21"
+  - first:
+      213: 6902161908681166776
+    second: "\u2014Pngtree\u2014set of car parts_4814851_22"
+  - first:
+      213: -7260182993079429112
+    second: "\u2014Pngtree\u2014set of car parts_4814851_23"
+  - first:
+      213: -2747986931397573032
+    second: "\u2014Pngtree\u2014set of car parts_4814851_24"
+  - first:
+      213: 8605887943010671960
+    second: "\u2014Pngtree\u2014set of car parts_4814851_25"
+  - first:
+      213: -8186986359390476592
+    second: "\u2014Pngtree\u2014set of car parts_4814851_26"
+  - first:
+      213: -5831991740936026813
+    second: "\u2014Pngtree\u2014set of car parts_4814851_27"
+  - first:
+      213: 6850496511009954172
+    second: "\u2014Pngtree\u2014set of car parts_4814851_28"
+  - first:
+      213: -1896916285700644825
+    second: "\u2014Pngtree\u2014set of car parts_4814851_29"
+  - first:
+      213: 59503524713100544
+    second: "\u2014Pngtree\u2014set of car parts_4814851_30"
+  - first:
+      213: -5339084570546269683
+    second: "\u2014Pngtree\u2014set of car parts_4814851_31"
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_0"
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1857
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e088cb05e304264ea96ebabb54b8af5
+      internalID: 6969131081817227434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_1"
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1631
+        width: 340
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8d335acb6f84c45a4082f79f139160
+      internalID: -4300880256038888644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_2"
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1838
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1384c2c5a80c05343b8ce0e22101c093
+      internalID: 2064041553020246191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_3"
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1557
+        width: 422
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93233429119f5da4bbf32a4fd877cc06
+      internalID: 2393892566070529373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_4"
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1619
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffe6429918d6684b8936d111c35f16d
+      internalID: 507874915064342132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_5"
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1350
+        width: 425
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dbef89eb75092419f931a9d66c30dd
+      internalID: -2177138018180288388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_6"
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1564
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a994b6dc61a494eae38e9f91e6fe18
+      internalID: -5811187399327319891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_7"
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1420
+        width: 379
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee946919033a1d48a877d04f3862b09
+      internalID: 8324826903839131850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_8"
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1186
+        width: 363
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff310692d4125b44be0a931fe0b6ae0
+      internalID: 448591252624597626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_9"
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1471
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3778ba587521e4ab19abe97b4a3f03
+      internalID: 8420736814518855799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_10"
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1373
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea68affc9a54e7a49891f9a7df58c163
+      internalID: -4906802687663118276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_11"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 705
+        width: 457
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c098b34d768244fab7c3138f765c48
+      internalID: -7297585560380071361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_12"
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 877
+        width: 477
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dd24e7878d61f49b29cd833566d2d0
+      internalID: 4451122462915463337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_13"
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1295
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f03fa278f48f794ab2c05c3ac830118
+      internalID: 906413727475527636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_14"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 799
+        width: 156
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a60d539da510f943b168fec35d65674
+      internalID: 8722663717692155428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_15"
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 865
+        width: 414
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a42eb2707a05840a13ca493399c033
+      internalID: 1011819218799796472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_16"
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 850
+        width: 172
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac649c1652ae2ad4799a7bfc5d7d4052
+      internalID: -154428038734872474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_17"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 373
+        width: 317
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a009cf6803357b744ac5d2d50fd766a4
+      internalID: -8672124700158826047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_18"
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 779
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b82a5736a77c9488c704801aa83d7e
+      internalID: 35141884279081454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_19"
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 775
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59c447d87e2cad41beca43ac9f143c1
+      internalID: 3304783113687633214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_20"
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 482
+        width: 383
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ded6ee24a61be41ba8db2344376bd7
+      internalID: -7946522742563415008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_21"
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 635
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3083d5316b80bf445b205de0d516644a
+      internalID: -10200916789776915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_22"
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 502
+        width: 105
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bb237158ad2bc459a597d18862e72f
+      internalID: 6902161908681166776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_23"
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 502
+        width: 105
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac61a28ad911c7d4db09c57ea570ed3e
+      internalID: -7260182993079429112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_24"
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 420
+        width: 90
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81217bea4c90b74e988109009c184f8
+      internalID: -2747986931397573032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_25"
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 467
+        width: 262
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb706a0e91cadcb4a8324526ec3dc030
+      internalID: 8605887943010671960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_26"
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 553
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fa6599d4013764eaec2a76fca20b83
+      internalID: -8186986359390476592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_27"
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 131
+        width: 519
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5db1380c1a41564cbfb59341a1c92ec
+      internalID: -5831991740936026813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_28"
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 416
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29750804b2d1a5b418f50a00a04afffa
+      internalID: 6850496511009954172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_29"
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 240
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54b77710aebe1b4faabc0b4a0e2e188
+      internalID: -1896916285700644825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_30"
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 111
+        width: 413
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e0e697962132d409ea479d2c815555
+      internalID: 59503524713100544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014set of car parts_4814851_31"
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 84
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1d7f3ca90783947820e5573ce82ed5
+      internalID: -5339084570546269683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8dffd9615685c4841b4a466d15ec413d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
